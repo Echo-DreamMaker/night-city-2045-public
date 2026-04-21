@@ -10407,10 +10407,6 @@ ent-ClothingUniformMNKGymBra = спортивный топ MNK
     .desc = Максимальная производительность благодаря потоотводящим тканям MNK.
 
 
-ent-ClothingUniformMNKDressBlack = чёрное платье MNK
-    .desc = Элегантное чёрное платье с фирменным "окном" MNK.
-
-
 ent-ClothingUniformMNKBlackOveralls = чёрный комбинезон MNK
     .desc = Удобная рубашка под плотным комбинезоном.
 
